@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0116d7cf-bd54-4e72-996a-72026391131b" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xxx-ddd-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xxx-ddd-app/src/main/java/com/ddd/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xxx-ddd-app/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xxx-ddd-app/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xxx-ddd-app/src/main/resources/mybatis/mapper/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xxx-ddd-demoApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xxx-ddd-demoApp/src/main/java/com/ddd/demo/trigger/http/Controller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ondLPBFSNmbMcShMtcGShyQkvx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/arlen/Github/xxx-ddd-demo/xxx-ddd-demoApp/src/main/java/com/ddd/demo/domain/demo2",
+    "onboarding.tips.debug.path": "/home/arlen/Github/xxx-ddd/xxx-ddd-app/src/main/java/com/ddd/Main.java",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "应用程序.Application.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xxx-ddd-demoApp/src/main/java/com/ddd/demo/domain/demo2" />
+      <recent name="$PROJECT_DIR$/xxx-ddd-demo/src/main/java/com/ddd/demo/domain/sysManage" />
+      <recent name="$PROJECT_DIR$/xxx-ddd-demo/src/main/java/com/ddd/demo/domain/okex" />
+      <recent name="$PROJECT_DIR$/xxx-ddd-demo/src/main/java/com/ddd/demo/domain/chat" />
+      <recent name="$PROJECT_DIR$/xxx-ddd-demo/src/main/java/com/ddd/demo/domain/demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xxx-ddd-model/src/main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ddd.demo.domain.sysManage.model.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ddd.app.Application" />
+      <module name="xxx-ddd-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ddd.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0116d7cf-bd54-4e72-996a-72026391131b" name="更改" comment="" />
+      <created>1731509219223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731509219223</updated>
+    </task>
+    <servers />
+  </component>
+</project>

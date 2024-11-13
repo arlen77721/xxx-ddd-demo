@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: xxx-ddd
+  profiles:
+    active: dev
